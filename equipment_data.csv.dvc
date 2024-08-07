@@ -1,0 +1,5 @@
+outs:
+- md5: eb3087e16d35899741714a08ff34cef5
+  size: 1588
+  hash: md5
+  path: equipment_data.csv
